@@ -1,3 +1,8 @@
+# UPDATE
+Some users have problems installing the fonts in Windows.
+I'm investigating the problem... if you have any trouble, pleas contact me with a PM at the <a href="https://www.facebook.com/My-Guitar-Fonts-450268108496016/">"My Guitar Fonts" Facebook Page</a>
+
+
 # MyGuitarFont
 Welcome to my page dedicated to some font file I created to ease the editing of guitar fretboard diagrams in a regular word processor.
 
